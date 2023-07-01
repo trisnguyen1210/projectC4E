@@ -127,3 +127,13 @@ a.dropdown-item:hover {
   display: flex;
   justify-content: center;
 }
+
+#input-result {
+  width: 100%;
+  padding: 220px 200px;
+}
+
+#game-img {
+  width: 100%;
+  margin: 50px 0 0 244px;
+}

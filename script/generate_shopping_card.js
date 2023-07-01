@@ -48,5 +48,4 @@ goods.forEach((element, key) => {
         shoppingItemsTypeAP.innerHTML = totalHTMLAP;
     }
     else { }
-    console.log(element.type) 
 });
